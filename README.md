@@ -1,2 +1,2 @@
-# CRUD
+# Stock
 sample
